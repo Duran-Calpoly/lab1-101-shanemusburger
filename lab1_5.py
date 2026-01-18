@@ -21,3 +21,4 @@ def calculate_federal_tax(salary):
         return salary*0.24
     
 print(calculate_federal_tax(50000))
+# test
